@@ -1,0 +1,9 @@
+[[listeners]]
+port = 8080
+protocol = "ProtocolA"
+bind_addr = "0.0.0.0"
+
+[[listeners]]
+port = 8081
+protocol = "ProtocolB"
+bind_addr = "0.0.0.0"
